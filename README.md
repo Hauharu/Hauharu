@@ -27,7 +27,7 @@ Nguyen Trung Hau</a></h1>
 ## 📈 My stats
 
 <div align = "center">
-    <img src='https://github-readme-stats.vercel.app/api?username=thien0709&include_all_commits=true&show_icons=true&theme=tokyonight' height="175em" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&layout=compact&theme=tokyonight" height="175em" />
+    <img src='https://github-readme-stats.vercel.app/api?username=hauharu&include_all_commits=true&show_icons=true&theme=tokyonight' height="175em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hauharu&layout=compact&theme=tokyonight" height="175em" />
 </div>
 
