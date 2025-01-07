@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Hauharu" target="blank">
 Nguyen Trung Hau</a></h1>
-<h5 align="center">An Information Technology student aspiring to become an expert in solving all problems in the field.</h5>
+<h5 align="left">An Information Technology student aspiring to become an expert in solving all problems in the field.</h5>
 
 # 💫About Me :
 <div>
