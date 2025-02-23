@@ -18,14 +18,20 @@
 
 ---
 
-## 🔥 Tech Stack  
+## 🎯 Fun Facts  
+- 🎮 Love playing **video games** and exploring **game development**.  
+- 🎵 Enjoy listening to **Lo-Fi music** while coding.  
+- 🏋️ Passionate about **fitness and staying active**.  
+- 🌍 Dream of traveling to **Japan and experiencing its culture**.  
 
-### 🚀 Frameworks 
+---
+
+## 🚀 Frameworks 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flask,django,react,spring" height="50"/>
 </div>
 
-### 💻 Programming Languages  
+## 💻 Programming Languages  
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cs,cpp,javascript,java,py" height="50"/>
 </div>
@@ -47,11 +53,5 @@
 
 ---
 
-## 🎯 Fun Facts  
-- 🎮 Love playing **video games** and exploring **game development**.  
-- 🎵 Enjoy listening to **Lo-Fi music** while coding.  
-- 🏋️ Passionate about **fitness and staying active**.  
-- 🌍 Dream of traveling to **Japan and experiencing its culture**.  
 
----
 
