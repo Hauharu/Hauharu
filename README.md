@@ -25,8 +25,12 @@
 - 🌍 Dream of traveling to **Japan and experiencing its culture**.  
 
 ---
+## 🔍 API Testing Tool  
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=postman" height="50"/>
+</div>
 
-## 🛠️ Tools  
+## 🛠️ IDE  
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,pycharm" height="50"/>
 </div>
