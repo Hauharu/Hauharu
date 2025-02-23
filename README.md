@@ -25,34 +25,34 @@
 - 🌍 Dream of traveling to **Japan and experiencing its culture**.  
 
 ---
-## 🔍 API Testing  
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=postman" height="50"/>
 </div>
 
-## 🛠️ IDE  
+ 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,pycharm" height="50"/>
 </div>
 
-## 🗄️ Databases  
+ 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server"/>
     <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
 </div>
 
-## 🚀 Frameworks 
+ 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flask,django,react,spring" height="50"/>
 </div>
 
-## 💻 Languages  
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cs,cpp,javascript,java,py" height="50"/>
 </div>
 
-## 📊 GitHub Stats  
+ 
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hauharu&theme=dracula" width="50%" height="200" />
@@ -63,7 +63,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hauharu&theme=radical" width="100%" />
 </div>
 
-## 🏆 GitHub Achievements  
+ 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=hauharu&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
