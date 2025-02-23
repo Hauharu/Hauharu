@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=flask,django,react,spring" height="50"/>
 </div>
 
-## 💻 Programming Languages  
+## 💻 Languages  
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cs,cpp,javascript,java,py" height="50"/>
 </div>
