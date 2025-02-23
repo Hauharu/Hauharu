@@ -39,14 +39,13 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-    <img algin='right' src='https://github-readme-streak-stats.herokuapp.com/?user=hauharu&theme=dracula' width='49.7%' height="220em"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hauharu&theme=dracula" width="50%" height="200" />
     <br>
-    <img src='https://github-readme-stats.vercel.app/api?username=hauharu&include_all_commits=true&show_icons=true&theme=tokyonight' height="175em" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hauharu&layout=compact&theme=tokyonight" height="175em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hauharu&include_all_commits=true&show_icons=true&theme=tokyonight" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hauharu&layout=compact&theme=tokyonight" height="180" />
     <br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hauharu&theme=radical" alt="Al Siam's GitHub Contribution" height="220em"  width='100%'/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hauharu&theme=radical" width="90%" />
 </div>
-
 
 ## 🏆 GitHub Achievements  
 <p align="center">
