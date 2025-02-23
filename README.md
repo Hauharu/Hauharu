@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hi, I'm 
+<h1 align="center">👋 Hi, I'm 
     <a href="https://github.com/Hauharu" target="_blank">Nguyen Trung Hau</a>
 </h1>
 
@@ -32,7 +32,7 @@
 
 ### 🛠 Tools & Platforms  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,linux,bash,aws,heroku,vercel" height="50"/>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,linux,bash,aws,heroku,pythonanywhere" height="50"/>
 </div>
 
 ### 🔗 Databases & Cloud Services  
