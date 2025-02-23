@@ -28,10 +28,10 @@ Nguyen Trung Hau</a></h1>
 
 <p align=center>
     <!-- <img algin='left' width='49%' src='https://github-readme-stats.vercel.app/api?username=hauharu&count_private=true&show_icons=true&theme=dracula' /> -->
-    <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=hauharu&theme=dracula' />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hauharu&layout=compact&theme=tokyonight" height="175em" />
 </p>
 
 <div align = "center">
-    <img src='https://github-readme-stats.vercel.app/api?username=hauharu&include_all_commits=true&show_icons=true&theme=tokyonight' height="175em" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hauharu&layout=compact&theme=tokyonight" height="175em" />
+    <img src='https://github-readme-stats.vercel.app/api?username=hauharu&include_all_commits=true&show_icons=true&theme=tokyonight' />
+    <img algin='right' src='https://github-readme-streak-stats.herokuapp.com/?user=hauharu&theme=dracula' />    
 </div>
