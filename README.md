@@ -43,7 +43,8 @@
     <br>
     <img src='https://github-readme-stats.vercel.app/api?username=hauharu&include_all_commits=true&show_icons=true&theme=tokyonight' height="175em" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hauharu&layout=compact&theme=tokyonight" height="175em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hauharu&theme=radical" alt="Al Siam's GitHub Contribution" height="220em"  width='90%'/>
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hauharu&theme=radical" alt="Al Siam's GitHub Contribution" height="220em"  width='100%'/>
 </div>
 
 
