@@ -20,27 +20,15 @@
 
 ## 🔥 Tech Stack  
 
-### 🚀 Frameworks & Technologies  
+### 🚀 Frameworks 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flask,django,react,spring,tailwind,nodejs,nextjs" height="50"/>
+    <img src="https://skillicons.dev/icons?i=flask,django,react,spring" height="50"/>
 </div>
 
 ### 💻 Programming Languages  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,javascript,java,py,typescript,go,rust" height="50"/>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,javascript,java,py" height="50"/>
 </div>
-
-### 🛠 Tools & Platforms  
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,linux,bash,aws,heroku,pythonanywhere" height="50"/>
-</div>
-
-### 🔗 Databases & Cloud Services  
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase" height="50"/>
-</div>
-
----
 
 ## 📊 GitHub Stats  
 
