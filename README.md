@@ -22,6 +22,6 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hauharu&layout=compact&theme=tokyonight" height="175em" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=hauharu&include_all_commits=true&show_icons=true&theme=tokyonight" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hauharu&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hauharu&include_all_commits=true&show_icons=true&theme=tokyonight" width='49.7%' />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hauharu&theme=dracula" width='49.7%' />
 </div>
