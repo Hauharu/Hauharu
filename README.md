@@ -26,6 +26,13 @@
 
 ---
 
+## 🗄️ Databases  
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server"/>
+</div>
+
+---
 ## 🚀 Frameworks 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flask,django,react,spring" height="50"/>
