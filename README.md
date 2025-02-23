@@ -3,11 +3,7 @@
 </h1>
 
 <p align="center">
-    🎓 <em>Information Technology Student | Aspiring Software Engineer</em>  
-</p>
-
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Passionate+about+coding+and+problem-solving!;Exploring+full-stack+development!;Lifelong+learner!">
+    🎓 <em>Information Technology Student</em>  
 </p>
 
 ---
@@ -19,7 +15,6 @@
 - 🎓 Studying at **HCM Open University**.  
 - 💡 Currently working on **exciting projects** in Java, Python, and Web Development.  
 - 📧 Reach me at **[trunghauu71@gmail.com](mailto:trunghauu71@gmail.com)**.  
-- 🌱 Learning **Cloud Computing & DevOps**.  
 
 ---
 
@@ -61,22 +56,6 @@
 ## 🏆 GitHub Achievements  
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=hauharu&theme=tokyonight&margin-w=15&no-frame=true" />
-</p>
-
----
-
-## 🌎 Connect with Me  
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://www.facebook.com/your-profile" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
-    </a>
-    <a href="mailto:trunghauu71@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
 </p>
 
 ---
