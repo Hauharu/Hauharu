@@ -14,14 +14,14 @@ Nguyen Trung Hau</a></h1>
 
 <h2 align="left">💻 Languages - Frameworks 💻</h2>-->
 
-## Languages
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,javascript,java,py" /><br>
+## Frameworks
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flask,django,react,typescript" /><br>
 </div>
 
-## Frameworks
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=flask,django,react,typescript" /><br>
+## Languages
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,javascript,java,py" /><br>
 </div>
 
 ## 📈 My stats
