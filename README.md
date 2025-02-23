@@ -2,12 +2,12 @@
 Nguyen Trung Hau</a></h1>
 <!--<h5 align="left">An Information Technology student aspiring to become an expert in solving all problems in the field.</h5>-->
 
-# 💫About Me :
+<!--# 💫About Me :
 <div>
     <p>🎓 Studying Computer Science at HCM Open University</p>
 </div>
 
-📫 How to reach me trunghauu71@gmail.com
+📫 How to reach me trunghauu71@gmail.com-->
 
 <!--## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]()[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
