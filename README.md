@@ -26,11 +26,6 @@ Nguyen Trung Hau</a></h1>
 
 ## 📈 My stats
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hauharu/count.svg" />
-</p>
-
 <p align=center>
     <!-- <img algin='left' width='49%' src='https://github-readme-stats.vercel.app/api?username=hauharu&count_private=true&show_icons=true&theme=dracula' /> -->
     <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=hauharu&theme=dracula' />
